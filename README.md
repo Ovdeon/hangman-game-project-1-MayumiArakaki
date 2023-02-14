@@ -15,4 +15,11 @@ https://www.youtube.com/watch?v=leW9ZotUVYo
 - write tests.
 
 ### What was your creative process:
-Write here all you want.
+First, i import the json. Then, create 4 functions (randomWord, printWord. WinCondition and drawHangman). 
+The first one, for make a random word of the json'list. 
+The second one, for count the leng of the word and make a array with the letters. Here too, show in console the word in underlines 
+The next one, for show the win condition and the last one for print the hangman in drow.
+
+then, i create a variables for the conditions of the game.
+
+In a while, create the restriction's game 
